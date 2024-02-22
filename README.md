@@ -4,7 +4,6 @@ component.
 ## main.test.js -> Test if a user can write 10,000 todos.
 1. Unit test.
 2. Tests if the webpage is able to handle 10,000 and more to do items.
-3. To check if there is any memory leak due to many to do items.
 ## item.test.js ->Test if cross button when clicked removes the item from the dom.
 1. Unit test.
 2. Tests if the delete button is functioning properly.
